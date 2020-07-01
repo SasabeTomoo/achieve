@@ -1,2 +1,5 @@
 Gitチュートリアル
+<<<<<<< HEAD
 -develop
+=======
+>>>>>>> develop
